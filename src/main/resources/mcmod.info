@@ -1,0 +1,16 @@
+[
+{
+  "modid": "CraftPlus",
+  "name": "Craft+",
+  "description": "Craft+ is just a simple mod that adds one more tier to Armor, Tools, etc.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["savageboy74"],
+  "credits": "savageboy74",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

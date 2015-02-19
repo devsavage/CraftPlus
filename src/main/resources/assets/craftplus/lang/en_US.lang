@@ -1,0 +1,18 @@
+# Creative Tab
+itemGroup.tabCraftPlus=CraftPlus
+
+# Items
+item.DenseDiamond.name=Dense Diamond
+item.DenseDiamondHelmet.name=Dense Diamond Helmet
+item.DenseDiamondChest.name=Dense Diamond Chestplate
+item.DenseDiamondLeggings.name=Dense Diamond Leggings
+item.DenseDiamondBoots.name=Dense Diamond Boots
+item.DenseDiamondSword.name=Dense Diamond Sword
+item.DenseDiamondPickaxe.name=Dense Diamond Pickaxe
+item.DenseDiamondShovel.name=Dense Diamond Shovel
+item.DenseDiamondHoe.name=Dense Diamond Hoe
+item.DenseDiamondAxe.name=Dense Diamond Axe
+
+# Blocks
+tile.DenseDiamondOre.name=Dense Diamond Ore
+tile.DenseDiamondBlock.name=Dense Diamond Block
