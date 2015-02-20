@@ -29,7 +29,7 @@ public class Reference
     public static final String mod_name = mod_id;
     public static final String mod_version = "1.7.10-0.2";
 
-    public static final int update_number = 2;
+    public static final int update_number = 3;
     public static String updates = "";
     public static boolean outdated = false;
 
